@@ -1,5 +1,5 @@
 # About-Mi
-Hi, my name is Miriã or Miriam in english. Welcome to my github.
+<i>Hi, my name is Miriã or Miriam in english. Welcome to my github.<i>
 
 💻 I'm Graphic designer and photographer in BR
 <p>👩🏻‍🎓 I currently work for a Medical Marketing and Events agency
